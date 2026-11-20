@@ -10,8 +10,8 @@ cross-platform educational platforms, and practical software tools.
 
 <p>
   <a href="https://github.com/xdeebx1"><img src="https://img.shields.io/badge/GitHub-xdeebx1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://wa.me/2xdeebx1"><img src="https://img.shields.io/badge/WhatsApp-xdeebx1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://t.me/+2xdeebx1"><img src="https://img.shields.io/badge/Telegram-xdeebx1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://wa.me/201283865399"><img src="https://img.shields.io/badge/WhatsApp-01283865399-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/+201283865399"><img src="https://img.shields.io/badge/Telegram-01283865399-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-priv._h__ahmmed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-Ahmed_Deeb-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:dyba8561@gmail.com"><img src="https://img.shields.io/badge/Gmail-dyba8561%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -97,16 +97,16 @@ cross-platform educational platforms, and practical software tools.
 
 <p align="left">
   <a href="https://github.com/xdeebx1"><img src="https://img.shields.io/badge/GitHub-xdeebx1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://wa.me/2xdeebx1"><img src="https://img.shields.io/badge/WhatsApp-xdeebx1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://t.me/+2xdeebx1"><img src="https://img.shields.io/badge/Telegram-xdeebx1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://wa.me/201283865399"><img src="https://img.shields.io/badge/WhatsApp-01283865399-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/+201283865399"><img src="https://img.shields.io/badge/Telegram-01283865399-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-priv._h__ahmmed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-Ahmed_Deeb-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:dyba8561@gmail.com"><img src="https://img.shields.io/badge/Gmail-dyba8561%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
 - 💻 **GitHub:** [github.com/xdeebx1](https://github.com/xdeebx1)
-- 💬 **WhatsApp:** [+20 128 386 5399](https://wa.me/2xdeebx1)
-- ✈️ **Telegram:** [+20 128 386 5399](https://t.me/+2xdeebx1)
+- 💬 **WhatsApp:** [+20 128 386 5399](https://wa.me/201283865399)
+- ✈️ **Telegram:** [+20 128 386 5399](https://t.me/+201283865399)
 - 📸 **Instagram:** [@priv._h_ahmmed](https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr)
 - 📘 **Facebook:** [Ahmed Deeb](https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr)
 - 📧 **Email:** [dyba8561@gmail.com](mailto:dyba8561@gmail.com)
