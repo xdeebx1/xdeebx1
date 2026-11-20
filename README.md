@@ -9,9 +9,9 @@ I build explainable AI and computer vision systems, full-stack web applications,
 cross-platform educational platforms, and practical software tools.
 
 <p>
-  <a href="https://github.com/01283865399"><img src="https://img.shields.io/badge/GitHub-01283865399-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://wa.me/201283865399"><img src="https://img.shields.io/badge/WhatsApp-01283865399-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://t.me/+201283865399"><img src="https://img.shields.io/badge/Telegram-01283865399-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/xdeebx1"><img src="https://img.shields.io/badge/GitHub-xdeebx1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://wa.me/2xdeebx1"><img src="https://img.shields.io/badge/WhatsApp-xdeebx1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/+2xdeebx1"><img src="https://img.shields.io/badge/Telegram-xdeebx1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-priv._h__ahmmed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-Ahmed_Deeb-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:dyba8561@gmail.com"><img src="https://img.shields.io/badge/Gmail-dyba8561%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -48,7 +48,7 @@ cross-platform educational platforms, and practical software tools.
 | :--- | :--- | :--- |
 | **AURA-Sepsis-CDSS** ⭐ | Explainable AI clinical decision-support platform combining clinical prediction with chest X-ray analysis and model interpretability | Python, PyTorch, torchxrayvision, SHAP, FastAPI, React |
 | **Al-Arrab** ⭐ | Multi-platform educational LMS for web, Android, and Windows Desktop | React, Kotlin Multiplatform, Jetpack Compose, Supabase |
-| **[B² Physics](https://github.com/01283865399/B-Physics)** ⭐ | Bilingual physics education platform with interactive lessons and learning experiences | React, Next.js, Tailwind CSS |
+| **[B² Physics](https://github.com/xdeebx1/B-Physics)** ⭐ | Bilingual physics education platform with interactive lessons and learning experiences | React, Next.js, Tailwind CSS |
 | **Deep Learn** ⭐ | Beginner-friendly Python and JavaScript educational platform founded by Ahmed Deeb | Python, JavaScript, Web |
 | **Harreef English** | Educational platform for English-language learning | React, Tailwind CSS, Supabase |
 | **Qahwat Al-Mobarmageen** | Programming, technology, and developer community platform | Next.js, React, Tailwind CSS |
@@ -86,8 +86,8 @@ cross-platform educational platforms, and practical software tools.
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01283865399&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="Ahmed Deeb GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01283865399&layout=compact&theme=tokyonight&hide_border=false&count_private=false" alt="Ahmed Deeb Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xdeebx1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="Ahmed Deeb GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdeebx1&layout=compact&theme=tokyonight&hide_border=false&count_private=false" alt="Ahmed Deeb Top Languages" />
 
 </div>
 
@@ -96,17 +96,17 @@ cross-platform educational platforms, and practical software tools.
 ## 📫 Contact & Socials
 
 <p align="left">
-  <a href="https://github.com/01283865399"><img src="https://img.shields.io/badge/GitHub-01283865399-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://wa.me/201283865399"><img src="https://img.shields.io/badge/WhatsApp-01283865399-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://t.me/+201283865399"><img src="https://img.shields.io/badge/Telegram-01283865399-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://github.com/xdeebx1"><img src="https://img.shields.io/badge/GitHub-xdeebx1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://wa.me/2xdeebx1"><img src="https://img.shields.io/badge/WhatsApp-xdeebx1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/+2xdeebx1"><img src="https://img.shields.io/badge/Telegram-xdeebx1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-priv._h__ahmmed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-Ahmed_Deeb-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:dyba8561@gmail.com"><img src="https://img.shields.io/badge/Gmail-dyba8561%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
-- 💻 **GitHub:** [github.com/01283865399](https://github.com/01283865399)
-- 💬 **WhatsApp:** [+20 128 386 5399](https://wa.me/201283865399)
-- ✈️ **Telegram:** [+20 128 386 5399](https://t.me/+201283865399)
+- 💻 **GitHub:** [github.com/xdeebx1](https://github.com/xdeebx1)
+- 💬 **WhatsApp:** [+20 128 386 5399](https://wa.me/2xdeebx1)
+- ✈️ **Telegram:** [+20 128 386 5399](https://t.me/+2xdeebx1)
 - 📸 **Instagram:** [@priv._h_ahmmed](https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr)
 - 📘 **Facebook:** [Ahmed Deeb](https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr)
 - 📧 **Email:** [dyba8561@gmail.com](mailto:dyba8561@gmail.com)
