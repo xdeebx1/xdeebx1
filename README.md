@@ -9,6 +9,11 @@ I build explainable AI and computer vision systems, full-stack web applications,
 cross-platform educational platforms, and practical software tools.
 
 [![GitHub](https://img.shields.io/badge/GitHub-01283865399-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/01283865399)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-01283865399-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201283865399)
+[![Telegram](https://img.shields.io/badge/Telegram-01283865399-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+201283865399)
+[![Instagram](https://img.shields.io/badge/Instagram-priv._h__ahmmed-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr)
+[![Facebook](https://img.shields.io/badge/Facebook-Ahmed_Deeb-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr)
+[![Gmail](https://img.shields.io/badge/Gmail-dyba8561%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dyba8561@gmail.com)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -81,8 +86,34 @@ Repository links are intentionally omitted because these projects are private.
 
 ---
 
-<div align="center">
+## 📫 Contact & Socials
 
-[![GitHub](https://img.shields.io/badge/Follow-01283865399-181717?style=for-the-badge&logo=github)](https://github.com/01283865399)
+<p align="left">
+  <a href="https://github.com/01283865399">
+    <img src="https://img.shields.io/badge/GitHub-01283865399-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wa.me/201283865399">
+    <img src="https://img.shields.io/badge/WhatsApp-01283865399-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://t.me/+201283865399">
+    <img src="https://img.shields.io/badge/Telegram-01283865399-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-priv._h__ahmmed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr">
+    <img src="https://img.shields.io/badge/Facebook-Ahmed_Deeb-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:dyba8561@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-dyba8561%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-</div>
+- 💻 **GitHub:** [github.com/01283865399](https://github.com/01283865399)
+- 💬 **WhatsApp:** [+20 128 386 5399](https://wa.me/201283865399)
+- ✈️ **Telegram:** [+20 128 386 5399](https://t.me/+201283865399)
+- 📸 **Instagram:** [@priv._h_ahmmed](https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr)
+- 📘 **Facebook:** [Ahmed Deeb](https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr)
+- 📧 **Email:** [dyba8561@gmail.com](mailto:dyba8561@gmail.com)
+
+---
