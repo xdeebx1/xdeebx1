@@ -3,7 +3,7 @@
 # Hi, I'm Ahmed Deeb 👋
 
 ### AI Engineer, Full-Stack & Cross-Platform Developer
-### Computer Science & Artificial Intelligence Student
+### Computer Science & Artificial Intelligence
 
 I build explainable AI and computer vision systems, full-stack web applications,
 cross-platform educational platforms, and practical software tools.
@@ -15,6 +15,9 @@ cross-platform educational platforms, and practical software tools.
   <a href="https://www.instagram.com/priv._h_ahmmed?gwpx=dXVpMzU5eGFyczg3&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-priv._h__ahmmed-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/share/1G7hmb99k1/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-Ahmed_Deeb-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:dyba8561@gmail.com"><img src="https://img.shields.io/badge/Gmail-dyba8561%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -31,23 +34,11 @@ cross-platform educational platforms, and practical software tools.
 ## 💫 About Me
 
 - 🧠 Specializing in **Computer Science & Artificial Intelligence**, with focused interests in **Machine Learning, Deep Learning, Explainable AI, Computer Vision, and Medical AI**
-- 🌐 Building full-stack web applications, native Android and desktop applications, and cross-platform systems
+- 🌐 Hands-on experience building full-stack web applications, native Android apps, Windows desktop apps, and cross-platform systems
 - 🩺 Developing explainable clinical decision-support systems, including AI-assisted sepsis prediction and chest X-ray analysis
-- 📚 Building and improving multi-platform educational platforms and interactive learning experiences
-- 🎨 Creating interactive 3D and AI-powered web experiences, including polished portfolios and bilingual assistants
-- 🛒 Developing e-commerce and installment-based retail storefronts
-- 👁️ Prototyping practical computer vision solutions using Python and OpenCV
-
-### Core Projects
-
-- 🩺 **AURA-Sepsis-CDSS** — Explainable AI clinical decision support for sepsis prediction and chest X-ray analysis
-- 📚 **Al-Arrab** — Multi-platform educational LMS for web, Android, and Windows desktop
-- ⚛️ **B² Physics** — Bilingual, interactive physics education platform
-- 🎓 **Deep Learn** — Educational initiative founded and managed by Ahmed Deeb for beginner-friendly Python and JavaScript lessons
-- 🇬🇧 **Harreef English** — English-learning platform
-- ☕ **Qahwat Al-Mobarmageen** — Programming and technology news and community platform
-- 🌐 **3D Developer Portfolio + Deep Assist** — Interactive Spline/Three.js portfolio with a Gemini-powered AI assistant
-- 👁️ **Sesame Seed Impurity Detector** — Webcam-based OpenCV prototype for identifying black clay impurities
+- 📚 Building and managing multi-platform educational platforms and interactive learning tools, including founding **Deep Learn** for beginner-friendly Python and JavaScript education
+- 🎨 Crafting dark-mode 3D web experiences, AI assistants, and practical software/retail solutions
+- 👁️ Prototyping computer vision applications with Python and OpenCV
 
 ---
 
@@ -57,12 +48,12 @@ cross-platform educational platforms, and practical software tools.
 | :--- | :--- | :--- |
 | **AURA-Sepsis-CDSS** ⭐ | Explainable AI clinical decision-support platform combining clinical prediction with chest X-ray analysis and model interpretability | Python, PyTorch, torchxrayvision, SHAP, FastAPI, React |
 | **Al-Arrab** ⭐ | Multi-platform educational LMS for web, Android, and Windows Desktop | React, Kotlin Multiplatform, Jetpack Compose, Supabase |
-| **[B² Physics](https://github.com/01283865399/B-Physics)** ⭐ | Bilingual physics education platform with interactive lessons and learning experiences | HTML, CSS, JavaScript, Supabase |
-| **Deep Learn** ⭐ | Beginner-friendly Python and JavaScript educational initiative and platform founded by Ahmed Deeb | Python, JavaScript, HTML, CSS, Supabase |
-| **Harreef English** | Educational platform for English-language learning | React, Vite, TypeScript, Tailwind CSS, Supabase |
-| **Qahwat Al-Mobarmageen** | Programming, technology, and developer community platform | React, TypeScript, Tailwind CSS |
-| **3D Developer Portfolio + Deep Assist** | Interactive dark-mode 3D portfolio with smooth scrolling and an AI assistant | React, Next.js, Three.js, Spline 3D, Lenis, Gemini API |
-| **Sesame Seed Impurity Detector** | Computer vision prototype for detecting sesame-seed impurities from a webcam stream | Python, OpenCV |
+| **[B² Physics](https://github.com/01283865399/B-Physics)** ⭐ | Bilingual physics education platform with interactive lessons and learning experiences | React, Next.js, Tailwind CSS |
+| **Deep Learn** ⭐ | Beginner-friendly Python and JavaScript educational platform founded by Ahmed Deeb | Python, JavaScript, Web |
+| **Harreef English** | Educational platform for English-language learning | React, Tailwind CSS, Supabase |
+| **Qahwat Al-Mobarmageen** | Programming, technology, and developer community platform | Next.js, React, Tailwind CSS |
+| **3D Developer Portfolio + Deep Assist** | Interactive dark-mode 3D portfolio with smooth scrolling and a bilingual AI assistant | React, Spline 3D, Lenis, Gemini API, Vercel |
+| **Sesame Seed Impurity Detector** | Computer vision prototype for detecting black clay impurities in sesame seeds from a webcam stream | Python, OpenCV |
 
 ---
 
